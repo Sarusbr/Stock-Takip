@@ -1,0 +1,16 @@
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\bin\Debug\Rimatec.exe.config
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\bin\Debug\Rimatec.exe
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\bin\Debug\Rimatec.pdb
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\obj\Debug\Rimatec.csprojAssemblyReference.cache
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\obj\Debug\Rimatec.Form1.resources
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\obj\Debug\Rimatec.Properties.Resources.resources
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\obj\Debug\Rimatec.csproj.GenerateResource.cache
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\obj\Debug\Rimatec.csproj.CoreCompileInputs.cache
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\obj\Debug\Rimatec.exe
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\obj\Debug\Rimatec.pdb
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\obj\Debug\Rimatec.Form2.resources
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\bin\Debug\Rimatec.exe.manifest
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\bin\Debug\Rimatec.application
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\obj\Debug\Rimatec.TrustInfo.xml
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\obj\Debug\Rimatec.exe.manifest
+C:\Users\batuhan ilter\source\repos\Rimatec\Rimatec\obj\Debug\Rimatec.application
